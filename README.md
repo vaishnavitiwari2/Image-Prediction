@@ -1,5 +1,5 @@
 # Image-Prediction
-Given an image, predict what clothing category it falls under amongst the 10 listed categories. 
+Creating a simple neural network that matches the input pixels of the Fashion MNIST dataset to 10 labels, each representing a type (or class) of clothing.
 Datset Used: Fashion MNIST
 About the Fashion MNIST dataset:
 One of the foundational datasets for learning and benchmarking algorithms is the Modified National Institute of Standards and Technology (MNIST) database, by Yann LeCun, Corinna Cortes, and Christopher Burges. This dataset is comprised of images
